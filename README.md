@@ -41,5 +41,5 @@ Up next:
 
 ## Author
 
-- Grace Castañeda - Full Stack Developer - [Linkedin] <a href="https://www.linkedin.com/in/castanedagrace/" target="_blank" rel="noopener"></a>
-
+- Grace Castañeda - Full Stack Developer - [Linkedin] (<a href="https://www.linkedin.com/in/castanedagrace/" target="_blank" rel="noopener"></a>
+)
