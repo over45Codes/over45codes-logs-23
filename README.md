@@ -33,7 +33,7 @@ Today's Progress:
 Up next: 
 
 1. Continue 100Devs Course Class #1 HTML - The Basics 
-2. Continue 100Devs Course Class #3 HTML - Even More Basics
+2. Continue 100Devs Course Class #3 HTML - Even More Basics>
 3. Start The Git & Github Bootcamp
 4. Will create weekly blogs and post them on Hashnode (@https://hashnode.com/@over45Codes)
 
@@ -41,4 +41,5 @@ Up next:
 
 ## Author
 
-- Grace Castañeda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Grace Castañeda - Full Stack Developer - [Linkedin] <a href="https://www.linkedin.com/in/castanedagrace/" target="_blank" rel="noopener"</a>)
+
